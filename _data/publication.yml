@@ -1,4 +1,9 @@
 # add two space after author to make a new line
+- title: "Effective and Efficient Federated Tree Learning on Hybrid Data"
+  pdf: https://arxiv.org/pdf/2310.11865.pdf
+  info: |
+    Qinbin Li, Chulin Xie, Xiaojun Xu, **Xiaoyuan Liu**, Ce Zhang, Bo Li, Bingsheng He, Dawn Song  
+    [[ICLR 2024]](https://iclr.cc/Conferences/2024)
 - title: "Lessons Learned: Surveying the Practicality of Differential Privacy in the Industry"
   pdf: https://petsymposium.org/popets/2023/popets-2023-0045.pdf
   info: |

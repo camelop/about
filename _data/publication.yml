@@ -1,4 +1,9 @@
 # add two space after author to make a new line
+- title: "ThreatKG: An AI-Powered System for Automated Open-Source Cyber Threat Intelligence Gathering and Management"
+  pdf: https://people.cs.vt.edu/penggao/papers/threatkg-lamps24.pdf
+  info: |
+    Peng Gao\*, **Xiaoyuan Liu\*** (equal contribution), Edward Choi, Sibo Ma, Xinyu Yang, Dawn Song  
+    [[LAMPS 2024]](https://lamps-ccs.com/)
 - title: "Effective and Efficient Federated Tree Learning on Hybrid Data"
   pdf: https://arxiv.org/pdf/2310.11865.pdf
   info: |

@@ -4,6 +4,16 @@
   info: |
     Peng Gao\*, **Xiaoyuan Liu\*** (equal contribution), Edward Choi, Sibo Ma, Xinyu Yang, Dawn Song  
     [[LAMPS 2024]](https://lamps-ccs.com/)
+- title: "Ratel: MPC-extensions for Smart Contracts"
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3634737.3661142
+  info: |
+    Yunqi Li, Kyle Soska, Zhen Huang, Sylvain Bellemare, Mikerah Quintyne-Collins, Lun Wang, **Xiaoyuan Liu**, Dawn Song, Andrew Miller  
+    [[Asia CCS 2024]](https://asiaccs2024.sutd.edu.sg/)
+- title: "Evaluating Large Language Models in an Emerging Domain: A Pilot Study in Decentralized Finance"
+  pdf: https://openreview.net/pdf?id=sfnz81T3pm
+  info: |
+    Joshua Carter Pearlson, **Xiaoyuan Liu**, Chengsong Huang, Kripa Ann George, Dawn Song, Chenguang Wang  
+    [[ICLR 2024 Workshop]](https://iclr.cc/virtual/2024/workshop/20585)
 - title: "Effective and Efficient Federated Tree Learning on Hybrid Data"
   pdf: https://arxiv.org/pdf/2310.11865.pdf
   info: |

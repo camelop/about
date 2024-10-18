@@ -1,4 +1,9 @@
 # add two space after author to make a new line
+- title: "HADES: Range-Filtered Private Aggregation on Public Data"
+  pdf: https://eprint.iacr.org/2024/1699
+  info: |
+    **Xiaoyuan Liu**, Ni Trieu, Trinabh Gupta, Ishtiyaque Ahmad, Dawn Song  
+    [[In submission]](#)
 - title: "ThreatKG: An AI-Powered System for Automated Open-Source Cyber Threat Intelligence Gathering and Management"
   pdf: https://people.cs.vt.edu/penggao/papers/threatkg-lamps24.pdf
   info: |

@@ -35,6 +35,8 @@ about_content: | # this will include new lines to allow paragraphs
 # Service Section
 
 service_content: |
+  - Program Committee - COLING [2025](https://coling2025.org/)
+  - Program Committee - NIPS [2024](https://neurips.cc/Conferences/2024/ProgramCommittee)
   - Program Committee - FLSys (MLSys workshop) [2023](https://flsys.github.io/)
   - ERC, Session Chair ([Correctness and Security](https://mlsys.org/virtual/2023/session/2501)) - MLSys [2023](https://mlsys.org/Conferences/2023)
   - Program Committee - ACL [2023](https://2023.aclweb.org/)

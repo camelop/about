@@ -74,6 +74,7 @@ experience_title: Research Experiences #(Use this to override about experience s
 more_title: Misc #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Materials**
+  - [CV (2024)](https://xiaoyuanliu.cn/assets/cv_xiaoyuanliu_ucb_2024_10_d1.pdf)
   - [CV (2019, outdated)](https://littleround.cn/static/personal/cv_xiaoyuanliu_SJTU_2019_12.pdf)
 
   **Teaching Experience**

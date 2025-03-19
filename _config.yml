@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   - **Mar 2025**: *"FHE-based SQL aggregation across millions of records within a minute."* Check out [our paper](https://eprint.iacr.org/2024/1699) accepted to VLDB 2025.  
   - **Jan 2024**: Presenting on Decentralized LLM serving at [IC3 Winter Retreat](https://www.initc3.org/events/2024-01-08-ic3-winter-retreat-2024).
   - **Jul 2023**: Honored to be supported by the [JP Morgan Chase PhD Fellowship 2023](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023).
-  - **Nov 2022**: *"The practical use of differential privacy across the enterprise is within striking distance."* Check out [our paper](https://arxiv.org/abs/2211.03898) accepted to PETS 2022.  
+  - **Nov 2022**: *"The practical use of differential privacy across the enterprise is within striking distance."* Check out [our paper](https://arxiv.org/abs/2211.03898) accepted to PETS 2023.  
   - **Oct 2022**: Released [CoLink](https://colink.app/), a project focusing on creating decentralized programming abstractions. Check out our talk at [NIPS 2022 Workshop](https://ai-secure.github.io/DMLW2022/speakers).
 
 # Service Section

@@ -21,7 +21,7 @@ linkedin_username: 啸远-刘-b46033190
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://www.jpmorgan.com/content/dam/jpm/cib/technology/head-shots/xiaoyuan-liu.jpg
+about_profile_image: https://gravatar.com/userimage/246635577/a44f75a2b40651cd28e5ce08d77478e3.jpeg?v=1707930152000&size=256
 about_content: | # this will include new lines to allow paragraphs
   I am a Ph.D. student in the EECS department at [UC Berkeley](https://www.berkeley.edu/) advised by [Professor Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). Before joining UC Berkeley, I received my bachelor's degree from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am a member of [Berkeley Center for Responsible, Decentralized Intelligence (RDI)](https://rdi.berkeley.edu/), [Initiative for Cryptocurrencies & Contracts Lab (IC3)](https://www.initc3.org/), and [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/).
   - **Research Interest**: I am broadly interested in **computer security**, **systems**, and **machine learning**, especially building systems that enable secure and privacy-preserving data processing or solve real-world security problems.  

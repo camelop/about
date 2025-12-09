@@ -29,6 +29,10 @@
   info: |
     Gonzalo Munilla Garrido, **Xiaoyuan Liu**, Florian Matthes, Dawn Song  
     [[PETS 2023]](https://petsymposium.org/2023/)
+- title: "UniFed: A Benchmark for Federated Learning Frameworks"
+  pdf: https://arxiv.org/pdf/2207.10308
+  info: |
+    **Xiaoyuan Liu**, Tianneng Shi, Chulin Xie, Qinbin Li, Kangping Hu, Haoyu Kim, Xiaojun Xu, Bo Li, Dawn Song
 - title: "A System for Automated Open-Source Threat Intelligence Gathering and Management"
   pdf: https://arxiv.org/pdf/2101.07769.pdf
   video: https://www.youtube.com/watch?v=McTZps5tJ44&list=PL3xUNnH4TdbsfndCMn02BqAAgGB0z7cwq
@@ -67,4 +71,5 @@
 - title: "Structured Hierarchical Dialogue Policy with Graph Neural Networks"
   info: |
     Zhi Chen, **Xiaoyuan Liu**, Lu Chen, Kai Yu
+
 

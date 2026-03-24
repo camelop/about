@@ -1,4 +1,8 @@
 # add two space after author to make a new line
+- title: "The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey"
+  pdf: https://arxiv.org/abs/2603.11088
+  info: |
+    Juhee Kim, **Xiaoyuan Liu**, Zhun Wang, Shi Qiu, Bo Li, Wenbo Guo, Dawn Song
 - title: "Measuring Agents in Production"
   pdf: https://arxiv.org/abs/2512.04123
   info: |
@@ -12,7 +16,7 @@
   video: https://youtu.be/Y6sI8d4NxjQ
   info: |
     **Xiaoyuan Liu**, Ni Trieu, Trinabh Gupta, Ishtiyaque Ahmad, Dawn Song  
-    [[VLDB 2025]](https://vldb.org/2025/)
+    [[VLDB 2025]](https://vldb.org/2025/) (Invited to the "Best of VLDB 2025" Special Issue)
 - title: "ThreatKG: An AI-Powered System for Automated Open-Source Cyber Threat Intelligence Gathering and Management"
   pdf: https://people.cs.vt.edu/penggao/papers/threatkg-lamps24.pdf
   info: |

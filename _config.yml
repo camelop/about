@@ -55,7 +55,7 @@ project_content: |
 honor_title: Honors and Awards
 honor_content: |
   - RDI Frontier Fellowship [2024]
-  - JP Morgan Chase PhD Fellowship [[2023]](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023)
+  - JP Morgan Chase PhD Fellowship [[2023]](https://web.archive.org/web/20250210154413/https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023)
   - Berkeley EECS Department Fellowship [2020]
   - Shanghai Excellent Graduate [2020]
   - Outstanding Student Cadre **(Top 0.8%, SJTU)** [2018]
@@ -77,7 +77,7 @@ experience_title: Research Experiences #(Use this to override about experience s
 more_title: Misc #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Materials**
-  - [CV (2025)](https://xiaoyuanliu.cn/assets/cv_xiaoyuanliu_ucb_2025_6_d1.pdf)
+  - [CV (2026)](https://xiaoyuanliu.cn/assets/cv_xiaoyuanliu_ucb_2026_3_d1.pdf)
   - [Bio](https://gist.githubusercontent.com/camelop/97952fd2742b357e585727e0adf2e82f/raw/397a7f11b5d7ef577857fe471993695f963a417c/xliu_bio_2025.txt)
   - [CV (2019, outdated)](https://littleround.cn/static/personal/cv_xiaoyuanliu_SJTU_2019_12.pdf)
 

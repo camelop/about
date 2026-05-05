@@ -1,4 +1,10 @@
 # add two space after author to make a new line
+
+- title: "Position: Agent Evaluation Should Be Agentified for Openness, Standardization, and Reproducibility"
+  pdf: https://drive.google.com/file/d/1yvwb60eKw_ObZYb6ZOkC4NJfks61TaCw/view?usp=sharing
+  info: |
+    **Xiaoyuan Liu**, Tianneng Shi, Wenbo Guo, Dawn Song  
+    [[ICML 2026]](https://icml.cc/Conferences/2026)
 - title: "The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey"
   pdf: https://arxiv.org/abs/2603.11088
   info: |

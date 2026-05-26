@@ -36,6 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
 # Service Section
 
 service_content: |
+  - Artifact Evaluation Committee - OSDI [2026](https://www.usenix.org/conference/osdi26/call-for-artifacts)
   - Program Committee - COLING [2025](https://coling2025.org/)
   - Program Committee - NIPS [2024](https://neurips.cc/Conferences/2024/ProgramCommittee)
   - Program Committee - FLSys (MLSys workshop) [2023](https://flsys.github.io/)

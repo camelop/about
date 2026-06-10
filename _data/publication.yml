@@ -1,5 +1,9 @@
 # add two space after author to make a new line
 
+- title: "Agents' Last Exam"
+  pdf: https://arxiv.org/abs/2606.05405
+  info: |
+    Yiyou Sun, Xinyang Han, Weichen Zhang, Yuanbo Pang, Tianyu Wang, Yuhan Cao, Yixiao Huang, Chris Duroiu, Haoyun Zhang, Jeffrey Lin, Weishu Zhang, Tyler Zeng, Ying Yan, Bo Liu, Hanson Wen, Mingyang Xu, **Xiaoyuan Liu**, Zimeng Chen, Weiyan Shi, Amanda Dsouza, Vincent Sunn Chen, Dawn Song
 - title: "Position: Agent Evaluation Should Be Agentified for Openness, Standardization, and Reproducibility"
   pdf: https://drive.google.com/file/d/1yvwb60eKw_ObZYb6ZOkC4NJfks61TaCw/view?usp=sharing
   info: |

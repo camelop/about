@@ -1,5 +1,9 @@
 # add two space after author to make a new line
 
+- title: "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility"
+  pdf: https://arxiv.org/abs/2606.13608
+  info: |
+    **Xiaoyuan Liu**, Jianhong Tu, Yuqi Chen, Siyuan Xie, Sihan Ren, Tianneng Shi, Gal Gantar, Evan Sandoval, Donghyun Lee, Daniel Miao, Peter J. Gilbert, Nick Hynes, Mauro Staver, Warren He, David Marn, Andrew Low, Xi Zhang, Elron Bandel, Michal Shmueli-Scheuer, Siva Reddy, Alexandre Drouin, Alexandre Lacoste, Ramayya Krishnan, Elham Tabassi, Yu Su, Victor Barres, Chenguang Wang, Wenbo Guo, Dawn Song
 - title: "Agents' Last Exam"
   pdf: https://arxiv.org/abs/2606.05405
   info: |

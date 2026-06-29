@@ -7,6 +7,7 @@
     **Xiaoyuan Liu**, Jianhong Tu, Yuqi Chen, Siyuan Xie, Sihan Ren, Tianneng Shi, Gal Gantar, Evan Sandoval, Donghyun Lee, Daniel Miao, Peter J. Gilbert, Nick Hynes, Mauro Staver, Warren He, David Marn, Andrew Low, Xi Zhang, Elron Bandel, Michal Shmueli-Scheuer, Siva Reddy, Alexandre Drouin, Alexandre Lacoste, Ramayya Krishnan, Elham Tabassi, Yu Su, Victor Barres, Chenguang Wang, Wenbo Guo, Dawn Song
 - title: "Agents' Last Exam"
   pdf: https://arxiv.org/abs/2606.05405
+  video: https://agents-last-exam.org/videos/ale-intro.mp4
   info: |
     Yiyou Sun, Xinyang Han, Weichen Zhang, Yuanbo Pang, Tianyu Wang, Yuhan Cao, Yixiao Huang, Chris Duroiu, Haoyun Zhang, Jeffrey Lin, Weishu Zhang, Tyler Zeng, Ying Yan, Bo Liu, Hanson Wen, Mingyang Xu, **Xiaoyuan Liu**, Zimeng Chen, Weiyan Shi, Amanda Dsouza, Vincent Sunn Chen, Dawn Song
 - title: "Position: Agent Evaluation Should Be Agentified for Openness, Standardization, and Reproducibility"
@@ -21,7 +22,8 @@
 - title: "Measuring Agents in Production"
   pdf: https://arxiv.org/abs/2512.04123
   info: |
-    Melissa Z Pan, Negar Arabzadeh, Riccardo Cogo, Yuxuan Zhu, Alexander Xiong, Lakshya A Agrawal, Huanzhi Mao, Emma Shen, Sid Pallerla, Liana Patel, Shu Liu, Tianneng Shi, **Xiaoyuan Liu**, Jared Quincy Davis, Emmanuele Lacavalla, Alessandro Basile, Shuyi Yang, Paul Castro, Daniel Kang, Joseph E Gonzalez, Koushik Sen, Dawn Song, Ion Stoica, Matei Zaharia, Marquita Ellis
+    Melissa Z Pan, Negar Arabzadeh, Riccardo Cogo, Yuxuan Zhu, Alexander Xiong, Lakshya A Agrawal, Huanzhi Mao, Emma Shen, Sid Pallerla, Liana Patel, Shu Liu, Tianneng Shi, **Xiaoyuan Liu**, Jared Quincy Davis, Emmanuele Lacavalla, Alessandro Basile, Shuyi Yang, Paul Castro, Daniel Kang, Joseph E Gonzalez, Koushik Sen, Dawn Song, Ion Stoica, Matei Zaharia, Marquita Ellis  
+    [[ICML 2026]](https://icml.cc/Conferences/2026)
 - title: "Can LLMs Ask Good Questions?"
   pdf: https://arxiv.org/abs/2501.03491
   info: |

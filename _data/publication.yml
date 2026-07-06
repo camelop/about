@@ -28,6 +28,10 @@
   pdf: https://arxiv.org/abs/2501.03491
   info: |
     Yueheng Zhang\*, **Xiaoyuan Liu\*** (equal contribution), Yiyou Sun, Atheer Alharbi, Hend Alzahrani, Basel Alomair, Dawn Song
+- title: "DeServe: Towards Affordable Offline LLM Inference via Decentralization"
+  pdf: https://arxiv.org/abs/2501.14784
+  info: |
+    Linyu Wu\*, **Xiaoyuan Liu\*** (equal contribution), Tianneng Shi, Zhe Ye, Dawn Song
 - title: "HADES: Range-Filtered Private Aggregation on Public Data"
   pdf: https://vldb.org/pvldb/volumes/18/paper/HADES%3A%20Range-Filtered%20Private%20Aggregation%20on%20Public%20Data
   video: https://youtu.be/Y6sI8d4NxjQ

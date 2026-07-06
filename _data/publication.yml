@@ -88,17 +88,18 @@
     **Xiaoyuan Liu**, Ni Trieu, Evgenios M Kornaropoulos, Dawn Song  
     [[IEEE Data Engineering Bulletin 2020]](https://tc.computer.org/tcde/data-engineering-bulletin/)
 - title: "Distributed Structured Actor-Critic Reinforcement Learning for Universal Dialogue Management"
-  pdf: https://arxiv.org/pdf/2009.10326.pdf
+  pdf: https://arxiv.org/abs/2009.10326
   info: |
     Zhi Chen, Lu Chen, **Xiaoyuan Liu**, Kai Yu  
     [[IEEE/ACM Transactions on Audio, Speech, and Language Processing]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
 - title: "Pretrained Transformers Improve Out-of-Distribution Robustness"
-  pdf: https://arxiv.org/pdf/2004.06100.pdf
+  pdf: https://arxiv.org/abs/2004.06100
   code: https://github.com/camelop/NLP-Robustness
   info: |
     Dan Hendrycks\*, **Xiaoyuan Liu\*** (equal contribution), Eric Wallace, Adam Dziedzic, Rishabh Krishnan, Dawn Song  
     [[ACL 2020]](https://acl2020.org/)
 - title: "Structured Hierarchical Dialogue Policy with Graph Neural Networks"
+  pdf: https://arxiv.org/abs/2009.10355
   info: |
     Zhi Chen, **Xiaoyuan Liu**, Lu Chen, Kai Yu
 

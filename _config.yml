@@ -22,10 +22,10 @@ linkedin_username: 啸远-刘-b46033190
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://1.gravatar.com/avatar/c017790274c7d1d9a4ee64a8a002c02d91deae5245f6ffe4dfe510101a8a57a2?s=256
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. student in the EECS department at [UC Berkeley](https://www.berkeley.edu/) advised by [Professor Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). Before joining UC Berkeley, I received my bachelor's degree from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am a member of [Berkeley Center for Responsible, Decentralized Intelligence (RDI)](https://rdi.berkeley.edu/), [Initiative for Cryptocurrencies & Contracts Lab (IC3)](https://www.initc3.org/), and [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/).
-  - **Research Interest**: I am broadly interested in **computer security**, **systems**, and **machine learning**, especially building systems that enable secure and privacy-preserving data processing or solve real-world security problems.  
+  I am an AI research scientist at Meta Superintelligence Labs. I obtained my Ph.D. degree in Computer Science from [UC Berkeley](https://www.berkeley.edu/), where I was advised by [Professor Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). My research focuses on privacy-preserving systems and agentic AI. Before joining UC Berkeley, I received my bachelor's degree from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I was a member of [Berkeley Center for Responsible, Decentralized Intelligence (RDI)](https://rdi.berkeley.edu/), [Initiative for Cryptocurrencies & Contracts Lab (IC3)](https://www.initc3.org/), and [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/).  
   
   <mark>News</mark>
+  - **Aug 2026**: Excited to join Meta to continue my research on agent safety and security.
   - **Jun 2026**: Our [AgentBeats full paper](https://arxiv.org/abs/2606.13608) is out, check it out and visit [agentbeats.org](https://agentbeats.org/) for more details.
   - **Apr 2026**: Releasing [BotDock](https://botdock.net/), a UI tool for cross-machine agent session management. 
   - **Aug 2025**: Our [AgentCTF Competition](https://ctf.secure-agent.com/) has been accepted by [IEEE SaTML 2026](https://satml.org/2026/competitions/).
